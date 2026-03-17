@@ -25,7 +25,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balongi&repo=Unity-Sound-Manager)](https://github.com/Balongi/Unity-Sound-Manager)
 
 ### 🏆 GitHub Trophies:
-<img src="https://github-profile-trophy.vercel.app/?username=Balongi&theme=juicyfresh&no-bg=true" />
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Balongi&theme=juicyfresh&no-bg=true&no-frame=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
